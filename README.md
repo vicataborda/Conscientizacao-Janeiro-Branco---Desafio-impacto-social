@@ -31,6 +31,11 @@ ChatGPT：
 |  estruturação  | dê-me ideias para compor um artigo de conscientização mental sobre o vício no virtual e como isso afeta as pessoas  |                                                      |
 | revisão | avalie e cite onde posso melhorar o seguinte artigo: *texto do artigo* |
 
+NightCafé：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | an image of a cell phone, showing on the display a cage, with an hourglass inside of the cage, epic cinematic brilliant stunning intricate meticulously detailed dramatic atmospheric maximalist digital matte painting |
 ## ✨ Features
 
 - Conteúdo estruturado via ChatGPT
