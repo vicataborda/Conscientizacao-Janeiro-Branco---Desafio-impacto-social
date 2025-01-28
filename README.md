@@ -12,7 +12,7 @@ Janeiro Branco/Desafio impacto social CAIXA
 Projeto com o objetivo de gerar impacto social com IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/vicataborda/Conscientizacao-Janeiro-Branco---Desafio-impacto-social/blob/main/Quando%20a%20esmola%20%C3%A9%20demais%2C%20o%20santo%20desconfia%20Por%20que%20n%C3%A3o%20percebems%20quando%20o%20virtual%20nos%20desvirtua.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/vicataborda/Conscientizacao-Janeiro-Branco---Desafio-impacto-social/blob/main/Quando%20a%20esmola%20%C3%A9%20demais%2C%20o%20santo%20desconfia%20Por%20que%20n%C3%A3o%20percebems%20quando%20o%20virtual%20nos%20desvirtua.pdf" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto:
 
